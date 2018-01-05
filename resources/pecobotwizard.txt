@@ -1,5 +1,5 @@
 name="Light Build"
-url="https://www.dropbox.com/s/rhx35ukin8zhgjz/Neptune.zip?dl=1"
+url="https://www.dropbox.com/s/1stg2t3rylwlbnt/lightbuild.zip?dl=1"
 img="https://raw.githubusercontent.com/PECONAUT/pecobot/master/resources/lightning.png"
 fanart="https://raw.githubusercontent.com/PECONAUT/pecobot/master/resources/fanart.jpg"
 description="Developed & Perfected"
