@@ -1,0 +1,14 @@
+name="[KODI 17] SkymashiTV Kryptonia"
+url="http://skymashi.eu/tutorial/build/skymashitv_kryptonia_rel.zip"
+img="http://skymashi.eu/tutorial/images/skymashiTV_kryptonia_icon.png"
+fanart="http://skymashi.eu/tutorial/images/skymashiTV_kryptonia_fanart.png"
+description="Developed since Alpha and now completely overhauled for Kodi 17 final"
+version="1.5"
+
+name="[KODI 17] SkymashiTV Lite 2.0"
+url="http://skymashi.eu/tutorial/skymashitv_lite20_rel.zip"
+img="http://skymashi.eu/tutorial/images/kodi17/skymashiTV_lite_icon20.png"
+fanart="http://skymashi.eu/tutorial/images/kodi17/skymashiTV_lite_fanart20.jpg"
+description="The lite and beautiful Lite Build, now for Kodi 17"
+version="2.2"
+
